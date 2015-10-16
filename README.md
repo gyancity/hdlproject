@@ -1,5 +1,5 @@
 # REST-BITER
-A micro-tool for quickly testing REST endpoints by automatically issuing multiple GET requests randomly distributed over time.
+A micro-tool for quickly testing REST APIs by automatically issuing multiple GET requests randomly distributed over time.
 
 Requires
 -------
@@ -12,7 +12,7 @@ Just copy the Python script file where needed.
 Usage
 -------
 Run the Python script with the needed parameters.
-The results of the calls are both printed in the console and saved into a log file in the file system.
+The results of the calls are both printed in the console and saved into a log file.
 
 Usage example
 -------

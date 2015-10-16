@@ -7,7 +7,7 @@ Python 2.7+
 
 Install
 -------
-Just copy the Python script file where needed
+Just copy the Python script file where needed.
 
 Usage
 -------
@@ -32,7 +32,3 @@ num_requests | the number of requests to be done, -1 for making an unbounded num
 t_min | minimum waiting time in milliseconds
 t_max | maximum waiting time in milliseconds
 t_outlier | outlier waiting time in milliseconds
-
-License
--------
-MIT License

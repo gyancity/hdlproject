@@ -1,5 +1,5 @@
 # REST-BITER
-A micro-tool for quickly testing REST endpoints
+A micro-tool for quickly testing REST endpoints by automatically issuing multiple GET requests randomly distributed over time.
 
 Requires
 -------

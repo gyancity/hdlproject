@@ -16,7 +16,9 @@ The results of the calls are both printed in the console and saved into a log fi
 
 Usage example
 -------
-```python restBiter.py http://www.ivanomalavolta.com 10 0 2000 20000```
+```
+python restBiter.py http://www.ivanomalavolta.com 10 0 2000 20000
+```
 
 Analizes the "http://www.ivanomalavolta.com" URL by making 10 GET requests every *t* milliseconds, where *t* is a random number between 0 and 2 seconds; sometimes the requests will be made after 20 seconds (outlier waiting time).
 

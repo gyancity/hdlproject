@@ -69,4 +69,5 @@ while((numRequests == -1) | (i<numRequests)):
 	response, payload = httplib2.Http().request(restUrl)
 
 	# log the response from the server
-	logging.info("Response: " + str(response))
+	logging.info("Header: " + str(response))
+	logging.info("Payload: " + str(payload))
